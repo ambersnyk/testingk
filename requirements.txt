@@ -1,5 +1,4 @@
---trusted-host download.pytorch.org
--f https://urldefense.proofpoint.com/v2/url?u=https-3A__download.pytorch.org_whl_cu113_torch-5Fstable.html&d=DwIGAg&c=wwDYKmuffy0jxUGHACmjfA&r=Z4snTuPRbNSFz_MzSXpdtQ&m=2hA8O05lHYunkkU1CDVBPK45p1DBW6wiBdnReJThd72u4An77UfBhQ8TnHK0bA9I&s=EgHMFpBoAbw6w-_IvktoJqHXLpKq1AiTZllPvNOW1hQ&e=  
+ 
 
 absl-py==1.0.0
 addict==2.4.0
